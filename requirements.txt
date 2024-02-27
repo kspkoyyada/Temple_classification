@@ -1,6 +1,9 @@
 streamlit
-Pillow
 numpy
-keras
+pillow
 opencv-python
 tensorflow
+keras
+
+
+
